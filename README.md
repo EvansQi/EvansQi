@@ -1,19 +1,4 @@
-## Hi there 👋 I'm EvansQi
-
-🎓 Second-year undergraduate, majoring in **Maths** at **SZU**  
-🤖 **Embodied AI · Robotics · Computer Vision**
-
----
-
-### 🚀 Projects
-
-| Project | Description |
-|---------|-------------|
-| [EmbodiForge](https://github.com/EvansQi/EmbodiForge) | Automatic robot-data workflow |
-| [EasyTeleop](https://github.com/EvansQi/EasyTeleop) | EasyTeleop teleoperation system |
-| [EasyTeleop-AIO](https://github.com/EvansQi/EasyTeleop-AIO) | EasyTeleop one-click deploy |
-| [Embodied-AI-Guide](https://github.com/EvansQi/Embodied-AI-Guide) | 具身智能技术指南 |
-| [hands-on-modern-rl](https://github.com/EvansQi/hands-on-modern-rl) | RL → LLM alignment curriculum |
+Hi! I'm a second-year undergraduate student majoring in Maths at SZU. 🤖 Embodied AI, Robotics, and Computer Vision are important parts of my life.
 
 ---
 
