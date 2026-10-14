@@ -1,4 +1,4 @@
-Hi! I'm a second-year undergraduate student majoring in Maths at SZU. 🤖 Embodied AI, Robotics, and Computer Vision are important parts of my life.
+Hi! I'm a third year undergraduate student majoring in Maths at SZU. 🤖 Embodied AI, Robotics, and Computer Vision are important parts of my life.
 
 ---
 
